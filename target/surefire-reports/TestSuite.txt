@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 150.309 s <<< FAILURE! - in TestSuite
+Tests.ContentTypeTest.contentDetails[About us, 1001, We prioritize our customers' needs and strive to provide exceptional service and support.](1)  Time elapsed: 139.906 s  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [save and proceed Button is not displayed]
+	at Tests.ContentTypeTest.contentDetails(ContentTypeTest.java:18)
+

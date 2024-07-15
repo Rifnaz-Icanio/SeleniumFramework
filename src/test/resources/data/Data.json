@@ -1,0 +1,14 @@
+{
+  "browserConfig": {
+    "browser": "Chrome",
+    "isHeadless": true
+  },
+  "environment": "QA",
+
+  "loginCredentials":
+  {
+    "contentStackLoginURL": "https://app.contentstack.com/#!/login",
+    "loginEmail": "perumal.d@icanio.com",
+    "loginPassword": "Password@123"
+  }
+}
